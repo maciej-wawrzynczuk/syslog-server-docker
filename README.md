@@ -1,0 +1,1 @@
+Syslog-ng server for collecting logs - docker image
